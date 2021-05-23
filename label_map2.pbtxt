@@ -1,0 +1,32 @@
+item {
+	id:1
+	name: 'text'
+}
+item {
+	id:2
+	name: 'checkmark'
+}
+item {
+	id:3
+	name: 'radio'
+}
+item {
+	id:4
+	name: 'date'
+}
+item {
+	id:5
+	name: 'signature'
+}
+item {
+	id:6
+	name: 'number'
+}
+item {
+	id:7
+	name: 'cells'
+}
+item {
+	id:8
+	name: 'unknown'
+}
